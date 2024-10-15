@@ -1,0 +1,7 @@
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\NumFormatting\NumFormatting\bin\Debug\NumFormatting.exe.config
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\NumFormatting\NumFormatting\bin\Debug\NumFormatting.exe
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\NumFormatting\NumFormatting\bin\Debug\NumFormatting.pdb
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\NumFormatting\NumFormatting\obj\Debug\NumFormatting.csproj.AssemblyReference.cache
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\NumFormatting\NumFormatting\obj\Debug\NumFormatting.csproj.CoreCompileInputs.cache
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\NumFormatting\NumFormatting\obj\Debug\NumFormatting.exe
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\NumFormatting\NumFormatting\obj\Debug\NumFormatting.pdb

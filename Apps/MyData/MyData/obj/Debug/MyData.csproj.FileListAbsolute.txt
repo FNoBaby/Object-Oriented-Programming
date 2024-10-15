@@ -1,0 +1,7 @@
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\MyData\MyData\bin\Debug\MyData.exe.config
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\MyData\MyData\bin\Debug\MyData.exe
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\MyData\MyData\bin\Debug\MyData.pdb
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\MyData\MyData\obj\Debug\MyData.csproj.AssemblyReference.cache
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\MyData\MyData\obj\Debug\MyData.csproj.CoreCompileInputs.cache
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\MyData\MyData\obj\Debug\MyData.exe
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\MyData\MyData\obj\Debug\MyData.pdb

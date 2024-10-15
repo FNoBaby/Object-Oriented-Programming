@@ -1,0 +1,7 @@
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\IntroVariables\IntroVariables\bin\Debug\IntroVariables.exe.config
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\IntroVariables\IntroVariables\bin\Debug\IntroVariables.exe
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\IntroVariables\IntroVariables\bin\Debug\IntroVariables.pdb
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\IntroVariables\IntroVariables\obj\Debug\IntroVariables.csproj.AssemblyReference.cache
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\IntroVariables\IntroVariables\obj\Debug\IntroVariables.csproj.CoreCompileInputs.cache
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\IntroVariables\IntroVariables\obj\Debug\IntroVariables.exe
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\IntroVariables\IntroVariables\obj\Debug\IntroVariables.pdb

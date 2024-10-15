@@ -1,0 +1,14 @@
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\Worksheet3\Worksheet3\bin\Debug\net8.0\Worksheet3.exe
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\Worksheet3\Worksheet3\bin\Debug\net8.0\Worksheet3.deps.json
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\Worksheet3\Worksheet3\bin\Debug\net8.0\Worksheet3.runtimeconfig.json
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\Worksheet3\Worksheet3\bin\Debug\net8.0\Worksheet3.dll
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\Worksheet3\Worksheet3\bin\Debug\net8.0\Worksheet3.pdb
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\Worksheet3\Worksheet3\obj\Debug\net8.0\Worksheet3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\Worksheet3\Worksheet3\obj\Debug\net8.0\Worksheet3.AssemblyInfoInputs.cache
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\Worksheet3\Worksheet3\obj\Debug\net8.0\Worksheet3.AssemblyInfo.cs
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\Worksheet3\Worksheet3\obj\Debug\net8.0\Worksheet3.csproj.CoreCompileInputs.cache
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\Worksheet3\Worksheet3\obj\Debug\net8.0\Worksheet3.dll
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\Worksheet3\Worksheet3\obj\Debug\net8.0\refint\Worksheet3.dll
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\Worksheet3\Worksheet3\obj\Debug\net8.0\Worksheet3.pdb
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\Worksheet3\Worksheet3\obj\Debug\net8.0\Worksheet3.genruntimeconfig.cache
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\Worksheet3\Worksheet3\obj\Debug\net8.0\ref\Worksheet3.dll

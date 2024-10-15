@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jakea\\Desktop\\MCAST 2nd Year\\Object Oriented Programming\\Apps\\Worksheet3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B984F34C-A067-4747-B321-CD21730F9AE3}|Worksheet3\\Worksheet3.csproj|c:\\users\\jakea\\desktop\\mcast 2nd year\\object oriented programming\\apps\\worksheet3\\worksheet3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B984F34C-A067-4747-B321-CD21730F9AE3}|Worksheet3\\Worksheet3.csproj|solutionrelative:worksheet3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jakea\\Desktop\\MCAST 2nd Year\\Object Oriented Programming\\Apps\\Worksheet3\\Worksheet3\\Program.cs",
+              "RelativeDocumentMoniker": "Worksheet3\\Program.cs",
+              "ToolTip": "C:\\Users\\jakea\\Desktop\\MCAST 2nd Year\\Object Oriented Programming\\Apps\\Worksheet3\\Worksheet3\\Program.cs",
+              "RelativeToolTip": "Worksheet3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:23:03.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

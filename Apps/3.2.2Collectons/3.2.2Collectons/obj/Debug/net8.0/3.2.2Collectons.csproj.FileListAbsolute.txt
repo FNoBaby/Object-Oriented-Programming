@@ -1,0 +1,14 @@
+C:\Users\jakea\source\repos\3.2.2Collectons\3.2.2Collectons\bin\Debug\net8.0\3.2.2Collectons.exe
+C:\Users\jakea\source\repos\3.2.2Collectons\3.2.2Collectons\bin\Debug\net8.0\3.2.2Collectons.deps.json
+C:\Users\jakea\source\repos\3.2.2Collectons\3.2.2Collectons\bin\Debug\net8.0\3.2.2Collectons.runtimeconfig.json
+C:\Users\jakea\source\repos\3.2.2Collectons\3.2.2Collectons\bin\Debug\net8.0\3.2.2Collectons.dll
+C:\Users\jakea\source\repos\3.2.2Collectons\3.2.2Collectons\bin\Debug\net8.0\3.2.2Collectons.pdb
+C:\Users\jakea\source\repos\3.2.2Collectons\3.2.2Collectons\obj\Debug\net8.0\3.2.2Collectons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakea\source\repos\3.2.2Collectons\3.2.2Collectons\obj\Debug\net8.0\3.2.2Collectons.AssemblyInfoInputs.cache
+C:\Users\jakea\source\repos\3.2.2Collectons\3.2.2Collectons\obj\Debug\net8.0\3.2.2Collectons.AssemblyInfo.cs
+C:\Users\jakea\source\repos\3.2.2Collectons\3.2.2Collectons\obj\Debug\net8.0\3.2.2Collectons.csproj.CoreCompileInputs.cache
+C:\Users\jakea\source\repos\3.2.2Collectons\3.2.2Collectons\obj\Debug\net8.0\3.2.2Collectons.dll
+C:\Users\jakea\source\repos\3.2.2Collectons\3.2.2Collectons\obj\Debug\net8.0\refint\3.2.2Collectons.dll
+C:\Users\jakea\source\repos\3.2.2Collectons\3.2.2Collectons\obj\Debug\net8.0\3.2.2Collectons.pdb
+C:\Users\jakea\source\repos\3.2.2Collectons\3.2.2Collectons\obj\Debug\net8.0\3.2.2Collectons.genruntimeconfig.cache
+C:\Users\jakea\source\repos\3.2.2Collectons\3.2.2Collectons\obj\Debug\net8.0\ref\3.2.2Collectons.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jakea\\Desktop\\MCAST 2nd Year\\Object Oriented Programming\\Apps\\AddNumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFBCFCE-5B53-44AE-BA19-A621121EE4E6}|AddNumbers\\AddNumbers.csproj|c:\\users\\jakea\\desktop\\mcast 2nd year\\object oriented programming\\apps\\addnumbers\\addnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFBCFCE-5B53-44AE-BA19-A621121EE4E6}|AddNumbers\\AddNumbers.csproj|solutionrelative:addnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jakea\\Desktop\\MCAST 2nd Year\\Object Oriented Programming\\Apps\\AddNumbers\\AddNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "AddNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\jakea\\Desktop\\MCAST 2nd Year\\Object Oriented Programming\\Apps\\AddNumbers\\AddNumbers\\Program.cs",
+              "RelativeToolTip": "AddNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T20:20:01.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
