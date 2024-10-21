@@ -1,0 +1,15 @@
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\4.1.1MethodsWS\4.1.1MethodsWS\bin\Debug\net8.0\4.1.1MethodsWS.exe
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\4.1.1MethodsWS\4.1.1MethodsWS\bin\Debug\net8.0\4.1.1MethodsWS.deps.json
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\4.1.1MethodsWS\4.1.1MethodsWS\bin\Debug\net8.0\4.1.1MethodsWS.runtimeconfig.json
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\4.1.1MethodsWS\4.1.1MethodsWS\bin\Debug\net8.0\4.1.1MethodsWS.dll
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\4.1.1MethodsWS\4.1.1MethodsWS\bin\Debug\net8.0\4.1.1MethodsWS.pdb
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\4.1.1MethodsWS\4.1.1MethodsWS\obj\Debug\net8.0\4.1.1MethodsWS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\4.1.1MethodsWS\4.1.1MethodsWS\obj\Debug\net8.0\4.1.1MethodsWS.AssemblyInfoInputs.cache
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\4.1.1MethodsWS\4.1.1MethodsWS\obj\Debug\net8.0\4.1.1MethodsWS.AssemblyInfo.cs
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\4.1.1MethodsWS\4.1.1MethodsWS\obj\Debug\net8.0\4.1.1MethodsWS.csproj.CoreCompileInputs.cache
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\4.1.1MethodsWS\4.1.1MethodsWS\obj\Debug\net8.0\4.1.1MethodsWS.sourcelink.json
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\4.1.1MethodsWS\4.1.1MethodsWS\obj\Debug\net8.0\4.1.1MethodsWS.dll
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\4.1.1MethodsWS\4.1.1MethodsWS\obj\Debug\net8.0\refint\4.1.1MethodsWS.dll
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\4.1.1MethodsWS\4.1.1MethodsWS\obj\Debug\net8.0\4.1.1MethodsWS.pdb
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\4.1.1MethodsWS\4.1.1MethodsWS\obj\Debug\net8.0\4.1.1MethodsWS.genruntimeconfig.cache
+C:\Users\jakea\Desktop\MCAST 2nd Year\Object Oriented Programming\Apps\4.1.1MethodsWS\4.1.1MethodsWS\obj\Debug\net8.0\ref\4.1.1MethodsWS.dll
