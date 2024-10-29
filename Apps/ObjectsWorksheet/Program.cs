@@ -37,7 +37,7 @@
         }
 
 
-        static void main(String[] args)
+        static void Main(String[] args)
         {
             Program program = new Program();
 
