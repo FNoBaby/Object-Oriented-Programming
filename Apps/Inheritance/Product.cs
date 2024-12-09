@@ -1,9 +1,29 @@
 public class Product{
-    public int Id { get; set; }
-    public string Name { get; set; }
-    public double Price { get; set; }
-    public int StockQuantity { get; set; }
+    private int id; 
+    private string name;
+    private double price;
+    private int stockQuantity;
 
+    public int Id{
+        get{ return id; }
+        set{ id = value; }
+    }
+
+    public string Name{
+        get{ return name; }
+        set{ name = value; }
+    }
+
+    public double Price{
+        get{ return price; }
+        set{ price = value; }
+    }
+
+    public int StockQuantity{
+        get{ return stockQuantity; }
+        set{ stockQuantity = value; }
+    }
+    
     public Product(int id, string name, double price, int stockQuantity)
     {
         this.Id = id;

@@ -1,6 +1,16 @@
 public class Furniture : Product {
-    public string Material { get; set; }
-    public int Weight { get; set; }
+    private string material;
+    private int weight;
+
+    public string Material {
+        get { return this.material; }
+        set { this.material = value; }
+    }
+
+    public int Weight {
+        get { return this.weight; }
+        set { this.weight = value; }
+    }
 
     public Furniture(int id, string name, double price, int stockQuantity, string material, int weight) : base(id, name, price, stockQuantity) {
         this.Material = material;
